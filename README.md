@@ -4,4 +4,6 @@ Things that would be fun if done to Schnippy
 
 <del>Alias pico and nano to vi</del><br />
 
-Organize flash-mob tasked with simultaneously throwing dinosaurs at him, at precisely the same moment.
+Organize flash-mob tasked with simultaneously throwing dinosaurs at him, at precisely the same moment. <br />
+
+Install fartscoll.js into Schnippy's WWDC presentation
